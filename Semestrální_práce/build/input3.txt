@@ -1,0 +1,15 @@
+Minimize
+    x + y
+
+Subject To
+    constraint1: x + y >= 3
+    constraint2: x + y <= 5
+
+Generals
+    x y
+
+Bounds
+    0 <= x
+    0 <= y
+
+End

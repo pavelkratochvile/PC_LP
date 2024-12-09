@@ -1,0 +1,1 @@
+/usr/bin/gcc -Wall -Wextra -pedantic -ansi -g CMakeFiles/parser.dir/src/main.c.o CMakeFiles/parser.dir/src/parse.c.o CMakeFiles/parser.dir/src/table/table.c.o CMakeFiles/parser.dir/src/simplex.c.o -o parser 

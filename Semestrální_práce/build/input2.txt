@@ -1,0 +1,13 @@
+Subject To
+baleni: 1 * x_1 + 2 * x_2 + 1 * x_3 <= 10
+vyroba: 3 * x_1 + 1 * x_2 + 0 * x_3 <= 12
+vyroba: 0 * x_1 + 1 * x_2 + 2 * x_3 <= 8
+Maximize
+4 * x_1 + 3 * x_2 + 1 * x_3
+Generals
+x_1 x_2 x_3
+Bounds
+0 <= x_1
+0 <= x_2
+0 <= x_3
+End

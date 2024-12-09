@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/mnt/c/Users/pavel/Documents/PC/Semestrální_práce/build",
+  "command": "/usr/bin/gcc   -Wall -Wextra -pedantic -ansi -g -std=gnu99 -o CMakeFiles/parser.dir/src/main.c.o -c /mnt/c/Users/pavel/Documents/PC/Semestrální_práce/src/main.c",
+  "file": "/mnt/c/Users/pavel/Documents/PC/Semestrální_práce/src/main.c"
+},
+{
+  "directory": "/mnt/c/Users/pavel/Documents/PC/Semestrální_práce/build",
+  "command": "/usr/bin/gcc   -Wall -Wextra -pedantic -ansi -g -std=gnu99 -o CMakeFiles/parser.dir/src/parse.c.o -c /mnt/c/Users/pavel/Documents/PC/Semestrální_práce/src/parse.c",
+  "file": "/mnt/c/Users/pavel/Documents/PC/Semestrální_práce/src/parse.c"
+},
+{
+  "directory": "/mnt/c/Users/pavel/Documents/PC/Semestrální_práce/build",
+  "command": "/usr/bin/gcc   -Wall -Wextra -pedantic -ansi -g -std=gnu99 -o CMakeFiles/parser.dir/src/table/table.c.o -c /mnt/c/Users/pavel/Documents/PC/Semestrální_práce/src/table/table.c",
+  "file": "/mnt/c/Users/pavel/Documents/PC/Semestrální_práce/src/table/table.c"
+},
+{
+  "directory": "/mnt/c/Users/pavel/Documents/PC/Semestrální_práce/build",
+  "command": "/usr/bin/gcc   -Wall -Wextra -pedantic -ansi -g -std=gnu99 -o CMakeFiles/parser.dir/src/simplex.c.o -c /mnt/c/Users/pavel/Documents/PC/Semestrální_práce/src/simplex.c",
+  "file": "/mnt/c/Users/pavel/Documents/PC/Semestrální_práce/src/simplex.c"
+}
+]

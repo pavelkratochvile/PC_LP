@@ -1,0 +1,15 @@
+Minimize
+    x - y
+
+Subject To
+    production: 2*x + y >= 2
+    packing: x + 2*y >= 2
+
+Generals
+    x y
+
+Bounds
+    0 <= x
+    0 <= y
+
+End

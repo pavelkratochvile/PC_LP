@@ -1,0 +1,16 @@
+Subject To
+vyroba: 2x_1 + 5x_2 - x_3 <= 18
+vyroba: -x_1 + x_2 + 2x_3 >= 14
+vyroba: 3x_1 + 2x_2 + 2x_3 = 26
+
+Maximize
+6x_1 - 7x_2 - 4x_3
+
+Generals
+x_1 x_2 x_3
+
+Bounds
+0 <= x_1
+0 <= x_2
+0 <= x_3
+End
